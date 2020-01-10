@@ -4,3 +4,8 @@
 - 后面我还参观了其他的展区，人工智能机器人的演奏表演，虚拟卡通人物的演唱表演，以及广州各个区的发展规划都十分有趣，还有“智创未来”海外人才创新创业大赛，很多来自不同地区的选手介绍自己团队研发的产品项目，再由评委打分，参赛选手要在短时间内更好更全面的介绍自己的项目，把优点更加凸显出来，看了几个选手的演讲，真的受益匪浅，当天的活动现场也有很多围观者，大家一起参与到其中，十分难忘。
 
 # 图片
+- ![图片1](https://github.com/Hinata013/053api-/blob/master/e.jpg)
+- ![图片2](https://github.com/Hinata013/053api-/blob/master/r.jpg)
+- ![图片3](https://github.com/Hinata013/053api-/blob/master/t.jpg)
+- ![图片4](https://github.com/Hinata013/053api-/blob/master/w.jpg)
+- ![图片5](https://github.com/Hinata013/053api-/blob/master/y.jpg)
