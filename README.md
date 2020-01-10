@@ -6,6 +6,5 @@
 # 图片
 - ![图片1](https://github.com/Hinata013/053api-/blob/master/e.jpg)
 - ![图片2](https://github.com/Hinata013/053api-/blob/master/y.jpg)
-- ![图片3](https://github.com/Hinata013/053api-/blob/master/q.jpg)
 - ![图片4](https://github.com/Hinata013/053api-/blob/master/w.jpg)
 - ![图片5](https://github.com/Hinata013/053api-/blob/master/r.jpg)
